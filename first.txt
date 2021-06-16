@@ -6,6 +6,9 @@ text
 2021
 softserve
 
-new branch 06_16
+text
+2021
+softserve
 
 for master
+
